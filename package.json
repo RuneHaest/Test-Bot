@@ -1,7 +1,7 @@
 {
   "name": "team-wyern-bot",
   "version": "1.0.0",
-  "description": "Team wyvern is een plantcraft team en deze bot is gemaakt voor dat team hun discord",
+  "description": "deze bot is een test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
