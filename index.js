@@ -3,7 +3,7 @@ const { lookup } = require("dns");
 const bot = new Discord.Client();
 const fs = require("fs")
 const ms = require("ms")
-const config = require("./config.json");
+const config = require("../config.json");
 
 
 
